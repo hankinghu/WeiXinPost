@@ -9,7 +9,7 @@ template_id1 = "ul_7FqmfBOJjRjFq4J7IWVWPic-3CE7IYLqT1b8DDWg"
 # 课程消息,上课提醒
 template_id2 = "zEVkCjU6f_n9bVdLX7uI1wG0Hnu9MB_szepB3fWgMHM"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "t48lrKGWTt3nrAcb2rlVlBgpgpC5uTFphfFPvEBYbMU"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["oW7Fq6xGF-K2aCi6odY7Y-U7F5rA"]
