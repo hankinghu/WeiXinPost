@@ -50,9 +50,9 @@ def get_weather(province, city):
 
 # 获取今天是第几周，返回字符串
 def get_Today_Week():
-    y = config.year
-    m = config.month
-    d = config.day
+    y = 2024
+    m = 1
+    d = 1
     startWeek = datetime(y, m, d)
     today = datetime.today()
     d_days = today - startWeek
